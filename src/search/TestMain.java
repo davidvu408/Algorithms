@@ -1,4 +1,4 @@
-package src.search;
+package search;
 
 
 public class TestMain {

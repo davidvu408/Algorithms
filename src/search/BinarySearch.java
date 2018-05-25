@@ -1,8 +1,8 @@
-package src.search;
+package search;
 
 import java.util.Arrays;
 
-import src.sorting.BubbleSort;
+import sorting.BubbleSort;
 
 /**
  * Binary Search is a searching algorithm that works as follows:
