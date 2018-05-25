@@ -1,4 +1,4 @@
-package sorting;
+package src.sorting;
 
 public class TestMain {
 
@@ -24,6 +24,5 @@ public class TestMain {
 		InsertionSort.sort(arr3);
 		**/
 		
-		System.out.println(73 % 5);
 	}
 }
